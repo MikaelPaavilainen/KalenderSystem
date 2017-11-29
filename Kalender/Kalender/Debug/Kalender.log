@@ -1,0 +1,3 @@
+﻿  Form1.cpp
+Form1.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Kalender.vcxproj -> C:\Users\mikael.paavilainen\Documents\Visual Studio 2017\Projects\Kalender\Kalender\Debug\Kalender.exe

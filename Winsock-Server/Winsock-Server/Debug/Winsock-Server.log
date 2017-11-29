@@ -1,2 +1,4 @@
 ﻿  Winsock-Server.cpp
-  Winsock-Server.vcxproj -> C:\Users\mikael.paavilainen\documents\visual studio 2017\Projects\Winsock-Server\Debug\Winsock-Server.exe
+c:\users\mikael.paavilainen\documents\visual studio 2017\projects\kalender\winsock-server\winsock-server\winsock-server.cpp(73): warning C4715: 'sendError': not all control paths return a value
+c:\users\mikael.paavilainen\documents\visual studio 2017\projects\kalender\winsock-server\winsock-server\winsock-server.cpp(56): warning C4715: 'sendCommandList': not all control paths return a value
+  Winsock-Server.vcxproj -> C:\Users\mikael.paavilainen\Documents\Visual Studio 2017\Projects\Kalender\Winsock-Server\Debug\Winsock-Server.exe
