@@ -1,2 +1,3 @@
 ﻿  Winsock-Client.cpp
-  Winsock-Client.vcxproj -> C:\Users\mikael.paavilainen\Documents\Visual Studio 2017\Projects\Winsock-Client\Debug\Winsock-Client.exe
+c:\users\mikael.paavilainen\documents\visual studio 2017\projects\kalender\winsock-client\winsock-client\winsock-client.cpp(34): warning C4101: 'recvbuf': unreferenced local variable
+  Winsock-Client.vcxproj -> C:\Users\mikael.paavilainen\Documents\Visual Studio 2017\Projects\Kalender\Winsock-Client\Debug\Winsock-Client.exe
